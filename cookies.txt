@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sat.gob.mx	TRUE	/	FALSE	1999999999	X-Source	c
+www.sat.gob.mx	TRUE	/	FALSE	1999999999	SameSite	Lax
+
